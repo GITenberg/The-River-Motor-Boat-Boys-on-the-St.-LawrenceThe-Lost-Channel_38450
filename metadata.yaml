@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '39477'
     url: http://www.gutenberg.org/2009/agents/39477
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38450#The-River-Motor-Boat-Boys-on-the-St.-LawrenceThe-Lost-Channel
 gutenberg_issued: '2011-12-31'
 gutenberg_type: Text
 identifiers:
