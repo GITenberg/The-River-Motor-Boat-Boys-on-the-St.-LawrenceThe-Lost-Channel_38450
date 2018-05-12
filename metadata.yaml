@@ -1,0 +1,34 @@
+_repo: The-River-Motor-Boat-Boys-on-the-St.-LawrenceThe-Lost-Channel_38450
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Davis, J. Watson
+    alias: Davis, John Watson
+    birthdate: 1870
+    deathdate: 1959
+    gutenberg_agent_id: '32768'
+    url: http://www.gutenberg.org/2009/agents/32768
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gordon, Harry
+    gutenberg_agent_id: '39477'
+    url: http://www.gutenberg.org/2009/agents/39477
+description: ''
+gutenberg_issued: '2011-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38450'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Saint Lawrence River -- Juvenile fiction'
+- !lcsh 'Motorboats -- Juvenile fiction'
+- !lcsh 'Boats and boating -- Juvenile fiction'
+title: The Six River Motor Boat Boys on the St. Lawrence; Or, The Lost Channel
+url: http://www.gutenberg.org/ebooks/38450
